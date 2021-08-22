@@ -1,2 +1,4 @@
 Gitの練習
 こんにちは赤ちゃん
+git add
+git commit
